@@ -58,6 +58,7 @@ class MainActivity : AppCompatActivity() {
             R.id.navigation_search -> {
                 titulo!!.text=getString(R.string.title_search)
                 return SearchFragment()
+
             }
             R.id.navigation_profile -> {
                 titulo!!.text=getString(R.string.title_profile)
