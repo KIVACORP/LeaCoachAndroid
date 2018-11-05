@@ -14,6 +14,7 @@ import kiva.com.pe.tutorapp.viewcontrollers.fragments.FavoriteFragment
 import kiva.com.pe.tutorapp.viewcontrollers.fragments.ProfileFragment
 import kiva.com.pe.tutorapp.viewcontrollers.fragments.SearchFragment
 import kiva.com.pe.tutorapp.models.SettingsAccount
+import kiva.com.pe.tutorapp.viewcontrollers.fragments.HomeFragment
 import kotlinx.android.synthetic.main.activity_main.*
 import org.w3c.dom.Text
 
@@ -34,7 +35,7 @@ class MainActivity : AppCompatActivity() {
 
         val UserLogged = SettingsAccount(this)
 
-        if (!UserLogged.didUserLoggedIn) {
+        if (/*!UserLogged.didUserLoggedIn*/true) {
             Toast.makeText(this, "Login", Toast.LENGTH_SHORT).show()
             startActivity(Intent(this, LoginActivity::class.java))
 
@@ -43,8 +44,8 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this, "Logged", Toast.LENGTH_SHORT).show()
 
         }
-        navigation.selectedItemId = R.id.navigation_favorite
-        titulo!!.text="Favorites"
+        navigation.selectedItemId = R.id.navigation_home
+        titulo!!.text="Home"
 
     }
 
@@ -65,8 +66,13 @@ class MainActivity : AppCompatActivity() {
                 return ProfileFragment()
 
             }
+            R.id.navigation_home -> {
+                titulo!!.text=getString(R.string.title_home)
+                return HomeFragment()
+
+            }
         }
-        return FavoriteFragment()
+        return HomeFragment()
 
     }
 

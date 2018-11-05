@@ -28,7 +28,7 @@ class SearchFragment : Fragment() {
     private lateinit var tutorRecyclerView: RecyclerView
     private lateinit var tutorAdapter: TutorAdapter
     private lateinit var tutorLayoutManager: RecyclerView.LayoutManager
-    @SuppressLint("ResourceAsColor")
+    @SuppressLint("ResourceAsColor", "ResourceType")
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
         // Inflate the layout for this fragment
@@ -37,8 +37,8 @@ class SearchFragment : Fragment() {
 
         var tabLayout = view.findViewById<TabLayout>(R.id.tabView)
         tabLayout.addTab(tabLayout.newTab().setText("TUTORES"))
-        tabLayout.addTab(tabLayout.newTab().setText("ARCHIVOS"))
-        tabLayout.setTabTextColors(R.color.colorIcons,R.color.colorIcons)
+        tabLayout.addTab(tabLayout.newTab().setText("PUBLICACIONES"))
+
         /*tutorAdapter = TutorAdapter(tutor, view.context)
         tutorLayoutManager = GridLayoutManager(view.context, 1) as RecyclerView.LayoutManager
         tutorRecyclerView = view.tutorRecycler

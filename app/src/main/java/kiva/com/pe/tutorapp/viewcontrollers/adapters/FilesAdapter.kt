@@ -30,11 +30,17 @@ class FilesAdapter(var files: ArrayList<Files>, val context: Context): RecyclerV
         val iconImageView = view.iconImageView
         val titleTextView = view.titleTextView
         val mediaLayout = view.itemMedia
+        val numofviewTextView  = view.numberOfViewTextView
+        val descriptionTextView = view.descriptionTextView
+        val dateTextView = view.dateTextView
 
         fun updateFrom(files: Files) {
 
-            titleTextView.text = files.created_at
-            when (files.type) {
+            titleTextView.text = files.name
+            numofviewTextView.text = files.views.toString()
+            descriptionTextView.text = files.description
+            dateTextView.text  = files.date
+            when (files.type_id) {
                 1 -> iconImageView.setImageResource(R.drawable.ic_docflat)
                 2 -> iconImageView.setImageResource(R.drawable.ic_imageflat)
                 3->iconImageView.setImageResource(R.drawable.ic_pdfflat)

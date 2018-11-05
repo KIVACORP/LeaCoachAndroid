@@ -4,34 +4,47 @@ import android.os.Bundle
 
 data class Files(
         val id: Int,
-        val tutor_speciality_id: Int,
-        val created_at: String?,
-        val url: String?,
+        val name: String,
         val views: Int,
-        val type: Int
+        val course_id: Int,
+        val tutor_id: Int,
+        val type_id: Int,
+        val date: String?,
+        val description: String?,
+        val url: String?,
+        val premium: Int
 ){
     companion object {
         fun from(bundle: Bundle):Files{
 
             return Files(
                     bundle.getInt("id"),
-                    bundle.getInt("tutor_speciality_id"),
-                    bundle.getString("created_at"),
-                    bundle.getString("url"),
+                    bundle.getString("name"),
                     bundle.getInt("views"),
-                    bundle.getInt("type")
-            )
+                    bundle.getInt("course_id"),
+                    bundle.getInt("tutor_id"),
+                    bundle.getInt("type_id"),
+                    bundle.getString("date"),
+                    bundle.getString("description"),
+                    bundle.getString("url"),
+                    bundle.getInt("premium")
+
+                    )
         }
     }
     fun toBundle(): Bundle {
         val bundle = Bundle()
         with(bundle){
             putInt("id",id)
-            putInt("tutor_speciality_id",tutor_speciality_id)
-            putString("created_at",created_at)
-            putString("url",url)
+            putString("name",name)
             putInt("views",views)
-            putInt("type",type)
+            putInt("course_id",course_id)
+            putInt("tutor_id",tutor_id)
+            putInt("type_id",type_id)
+            putString("date",date)
+            putString("description",description)
+            putString("url",url)
+            putInt("premium",premium)
 
         }
         return bundle

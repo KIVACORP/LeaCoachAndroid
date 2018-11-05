@@ -46,6 +46,10 @@ class settingsAdapter (var settingsoptions: ArrayList<settingsOptions>, val cont
                 view ->
                 val context = view.context
                 Toast.makeText(context,"Open this option setting",Toast.LENGTH_LONG).show()
+                if(itemSettingOption.id==1){
+
+
+                }
             }
 
         }
