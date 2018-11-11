@@ -11,6 +11,8 @@ class LeacoachAPI{
         private val BASE_URL: String = "http://leacoachbe.somee.com/leacoach"
 
         val publications = "$BASE_URL/v1/publications"
+        val coaches = "$BASE_URL/v1/tutors"
+
         val tag = "LEACOACH"
 
         fun requestPublications( responseHandler: (PublicationsResponse?) -> Unit, errorHandler: (ANError?) -> Unit  ) {
@@ -29,6 +31,24 @@ class LeacoachAPI{
 
                     })
         }
+
+        fun requestCoaches( responseHandler: (CoachesResponse?) -> Unit, errorHandler: (ANError?) -> Unit  ) {
+            AndroidNetworking.get(LeacoachAPI.coaches)
+                    .setPriority(Priority.LOW)
+                    .setTag(tag)
+                    .build()
+                    .getAsObject(CoachesResponse::class.java, object : ParsedRequestListener<CoachesResponse> {
+                        override fun onResponse(response: CoachesResponse?) {
+                            responseHandler(response)
+                        }
+
+                        override fun onError(anError: ANError?) {
+                            errorHandler(anError)
+                        }
+
+                    })
+        }
+
 
     }
 

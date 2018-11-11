@@ -6,7 +6,8 @@ import android.os.Bundle
 data class Tutor(
         val id: Int,
 
-        val name: String?
+        val name: String?,
+        val email: String?
 
 ){
     companion object {
@@ -14,8 +15,10 @@ data class Tutor(
 
             return Tutor(
                     bundle.getInt("id"),
-                    bundle.getString("name")
-            )
+                    bundle.getString("name"),
+                    bundle.getString("email")
+
+                    )
         }
     }
     fun toBundle(): Bundle {
@@ -23,6 +26,7 @@ data class Tutor(
         with(bundle){
             putInt("id",id)
             putString("name",name)
+            putString("email",email)
 
         }
         return bundle

@@ -55,6 +55,8 @@ class MainActivity : AppCompatActivity() {
             R.id.navigation_favorite -> {
                 titulo!!.text=getString(R.string.title_favorite)
                 return FavoriteFragment()
+
+
             }
             R.id.navigation_search -> {
                 titulo!!.text=getString(R.string.title_search)

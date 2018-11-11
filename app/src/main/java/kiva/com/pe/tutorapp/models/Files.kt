@@ -49,7 +49,34 @@ data class Files(
         }
         return bundle
     }
+    fun isFavorite() : Boolean {
+        return Favorite.listFor(id.toString()!!).isNotEmpty()
+    }
 
+    fun setFavorite(isFavorite: Boolean) {
+        if (isFavorite == isFavorite()) {
+            return
+        }
+        if (isFavorite) {
+            val favorite = Favorite()
+            favorite.publicationId = id.toString()
+            favorite.name = name
+            favorite.views = views
+            favorite.course_id = course_id
+            favorite.tutor_id = tutor_id
+            favorite.type_id = type_id
+            favorite.date = date
+            favorite.description = description
+            favorite.url = url
+            favorite.premium = premium
+
+            favorite.save()
+        } else {
+            Favorite.listFor(id.toString()!!).map { bookmark ->
+                bookmark.delete()  }
+        }
+
+    }
 
 
 }

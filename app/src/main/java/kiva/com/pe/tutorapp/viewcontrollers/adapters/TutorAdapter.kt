@@ -28,17 +28,20 @@ class TutorAdapter(var tutor: ArrayList<Tutor>, val context: Context): RecyclerV
     }
     class ViewHolder(view: View): RecyclerView.ViewHolder(view) {
         val pictureImageView = view.tutorImageView
-        val titleTextView = view.titleTextView
+        val titleTextView = view.firstNameTextView
+        val emailTextView = view.emailTextView
+
         val mediaLayout = view.itemTutor
 
         fun updateFrom(tutor: Tutor) {
 
-            titleTextView.text = tutor.name
+            titleTextView!!.text = tutor.name
+            emailTextView!!.text = tutor.email
             pictureImageView.setImageResource(R.mipmap.teacher)
             /*with(pictureImageView) {
                 setDefaultImageResId(R.mipmap.ic_launcher)
                 setErrorImageResId(R.mipmap.ic_launcher)
-                setImageUrl(files.url)
+                setImageUrl(tutor.url)
             }*/
             mediaLayout.setOnClickListener { view ->
                 val context = view.context
