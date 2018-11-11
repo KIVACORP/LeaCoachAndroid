@@ -26,6 +26,7 @@ class Favorite() : SugarRecord(){
 
         fun listAll(): List<Favorite>{
             return SugarRecord.listAll(Favorite::class.java)
+
         }
         fun listFor(publicationId: String):List<Favorite>{
             return SugarRecord.find(Favorite::class.java,
