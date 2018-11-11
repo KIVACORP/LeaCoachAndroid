@@ -26,6 +26,7 @@ class TutorAdapter(var tutor: ArrayList<Tutor>, val context: Context): RecyclerV
         p0.updateFrom(tutor)
 
     }
+	//Agregar_mas
     class ViewHolder(view: View): RecyclerView.ViewHolder(view) {
         val pictureImageView = view.tutorImageView
         val titleTextView = view.firstNameTextView

@@ -10,7 +10,7 @@ import kiva.com.pe.tutorapp.R
 import kiva.com.pe.tutorapp.models.Files
 import kiva.com.pe.tutorapp.viewcontrollers.activities.AboutFileActivity
 import kotlinx.android.synthetic.main.item_file.view.*
-
+//MEjorar
 class FilesAdapter(var files: ArrayList<Files>, val context: Context): RecyclerView.Adapter<FilesAdapter.ViewHolder>(){
     override fun onCreateViewHolder(p0: ViewGroup, p1: Int): FilesAdapter.ViewHolder {
         return ViewHolder(LayoutInflater
