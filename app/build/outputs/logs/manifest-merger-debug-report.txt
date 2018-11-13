@@ -1,195 +1,203 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:2:1-35:12
-MERGED from [com.android.support:design:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/71bf0912a0eb69d0736da1b49a93de48/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/628d2a56083937a9f11933c7b04d9fd9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d0fda6f2920bb02287cd4404c5123a34/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-v4:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc02.aar/aecd30bb0a0d74801cfab986d806b573/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/61cc99acf99cf165559fb3326bfd946a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/95a30c98d38d72c286ca5e9335374dda/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/b240d959994babe6d69692d86e9c931c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/99394c99ca1a8f815575292c114941d0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/76e896e52cae73f2c824656c257b4092/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/7149a4823cd0b4fa59bef29a435820e3/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc02.aar/292ee46a53fae40b539e803080810fe3/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/7342ef870d593924514da0f11d0ee894/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/7b0e58f67c1c63e7a48277004f962902/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/592cc94d82c8c773ee363975269d5e18/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/6c9f7254c8057a2ac3391adc6b3a46e6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/ab40bb31bf466bb985e98444e412d69b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/0841a8f6ec9836f46b6b28fec37c7d5c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/8ca212c1eb1dd475a330eeec5ec3d3f6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/8210685f0ee4b35f1c2372367b7b0220/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/c63767f7e0f8144401105b0d751e2071/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/9dd0b8da850018fd6e6f67e458db535d/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/40195c246f8f2b16eeb9dc9f45213ff1/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/9236ad21d57175890611002d5ea8e9a2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/07c0ad7a97a70260eace9ed7c855cfb2/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1165101fa9cbf86415ec515582ea6310/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/6cc02f7003a561de698722f7c0ab527f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/35ddc3a541acecd64bb0507b40dd8fd6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/6a56e9de63e04415158c50378c6c01c3/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d825ada72221cf8281dda47f23fc805f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/521e3503d19b9eb6dcf2d2cbb48b93c2/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7f7c1f52634f608ed18abac998f3cd2a/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0799a49afbe568d22a38d9208826cd5d/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:2:1-35:12
+ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\91bc22c969fb14894154b6b01f633bb0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\android-networking-1.0.2.aar\153a78407332d55f51f901e36dd9cd23\AndroidManifest.xml:18:1-27:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\7d69670ed3f4533f3ad52df26534a3e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1857fa348cf53ff40ecb7f253c78ec7c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-rc02.aar\b281c12d5e8e52a1d7d1d4348b650705\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.satyan:sugar:1.5] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\sugar-1.5.aar\1d5225d5d79ba497b8191e974d0d3f2d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\26b6d2b7d91e5faedbaeee0b97fb6ec7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\8d5aa9f9b90c0a1f35a267b84c3c043c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\7c6b2d7b6ba57e48c490036f281a0759\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\f087bd3214a4dec2a61515345d23cf9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\91372f7b17a4f5c1666a875181a2c6d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\b785716d82bbb0c22bda00d6335c9893\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-rc02.aar\ebf07b3f9a5771bcd2a28defcc197e23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\ff8241b1cb4fea8ead6b4425b606d3e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\6a17c19b25252eff63541ee10255b740\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\d1911e3b39f9f30d76fc16b2fab0564b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\1b4a937a3fe8de25c0169c0c14e0da49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\915f4a8dc71b1a7597878a6f1df3bcda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\c43654908f77745d6debb3c36b1ae427\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\3d3c4adf2159dbdf3a47242b638c7460\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\2647645ba834583832fd21972c3bd61f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\d49033525443f79f2dade55a99df33c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\bca86f3d2f528170f5ec467714fa9ce8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\fa51f5facbb89ef1e4a6637758a52642\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\b1521b067fdb2ad03192473c1634dfac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c26738eb111fe0aa66bf094a8fc73ee0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\c04b127f5c524ef4dafc521ba26ab984\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\5a99b9b32331b520d5d3f1161ef21f35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\9de47e75fe61c51a22bf6d4d930455c8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3677aebeff83b38b7b85e6a63e0f29f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\c2dfef84c1ca958e936e38bf070e4ea5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\a878870f18c9f6e645e52d43d21d5fba\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5ce2ebf52b76d826d2d356a24c14763e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8ac8949ffc3b58461865287861d40854\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:3:5-35
-		INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:2:1-35:12
-		INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml
+		INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:2:1-35:12
-		INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml
+		INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:7:5-33:19
-MERGED from [com.android.support:design:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/71bf0912a0eb69d0736da1b49a93de48/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/71bf0912a0eb69d0736da1b49a93de48/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d0fda6f2920bb02287cd4404c5123a34/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d0fda6f2920bb02287cd4404c5123a34/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/9dd0b8da850018fd6e6f67e458db535d/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/9dd0b8da850018fd6e6f67e458db535d/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/40195c246f8f2b16eeb9dc9f45213ff1/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/40195c246f8f2b16eeb9dc9f45213ff1/AndroidManifest.xml:22:5-23:19
+ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:7:5-34:19
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\91bc22c969fb14894154b6b01f633bb0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\91bc22c969fb14894154b6b01f633bb0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1857fa348cf53ff40ecb7f253c78ec7c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1857fa348cf53ff40ecb7f253c78ec7c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\bca86f3d2f528170f5ec467714fa9ce8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\bca86f3d2f528170f5ec467714fa9ce8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\fa51f5facbb89ef1e4a6637758a52642\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\fa51f5facbb89ef1e4a6637758a52642\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/9dd0b8da850018fd6e6f67e458db535d/AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\bca86f3d2f528170f5ec467714fa9ce8\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:9:9-36
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:10:9-44
 	android:allowBackup
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:13:9-40
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:8:9-36
 activity#kiva.com.pe.tutorapp.viewcontrollers.activities.MainActivity
-ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:14:9-23:20
+ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:15:9-24:20
 	android:label
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:16:13-45
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:17:13-45
 	android:theme
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:17:13-56
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:18:13-56
 	android:name
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:15:13-68
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:16:13-68
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:18:13-22:29
+ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:22:27-74
 activity#kiva.com.pe.tutorapp.viewcontrollers.activities.LoginActivity
-ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:24:9-27:59
+ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:25:9-28:59
 	android:label
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:26:13-57
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:27:13-57
 	android:theme
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:27:13-56
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:28:13-56
 	android:name
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:25:13-69
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:26:13-69
 activity#kiva.com.pe.tutorapp.viewcontrollers.activities.AboutFileActivity
-ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:29:9-32:68
+ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:30:9-33:68
 	android:label
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:31:13-62
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:32:13-62
 	android:theme
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:32:13-56
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:33:13-56
 	android:name
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml:30:13-73
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml:31:13-73
 uses-sdk
-INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml
-INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:design:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/71bf0912a0eb69d0736da1b49a93de48/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/71bf0912a0eb69d0736da1b49a93de48/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/628d2a56083937a9f11933c7b04d9fd9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/628d2a56083937a9f11933c7b04d9fd9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d0fda6f2920bb02287cd4404c5123a34/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d0fda6f2920bb02287cd4404c5123a34/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc02.aar/aecd30bb0a0d74801cfab986d806b573/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc02.aar/aecd30bb0a0d74801cfab986d806b573/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/61cc99acf99cf165559fb3326bfd946a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/61cc99acf99cf165559fb3326bfd946a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/95a30c98d38d72c286ca5e9335374dda/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/95a30c98d38d72c286ca5e9335374dda/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/b240d959994babe6d69692d86e9c931c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/b240d959994babe6d69692d86e9c931c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/99394c99ca1a8f815575292c114941d0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/99394c99ca1a8f815575292c114941d0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/76e896e52cae73f2c824656c257b4092/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/76e896e52cae73f2c824656c257b4092/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/7149a4823cd0b4fa59bef29a435820e3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/7149a4823cd0b4fa59bef29a435820e3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc02.aar/292ee46a53fae40b539e803080810fe3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc02.aar/292ee46a53fae40b539e803080810fe3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/7342ef870d593924514da0f11d0ee894/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/7342ef870d593924514da0f11d0ee894/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/7b0e58f67c1c63e7a48277004f962902/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/7b0e58f67c1c63e7a48277004f962902/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/592cc94d82c8c773ee363975269d5e18/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/592cc94d82c8c773ee363975269d5e18/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/6c9f7254c8057a2ac3391adc6b3a46e6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/6c9f7254c8057a2ac3391adc6b3a46e6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/ab40bb31bf466bb985e98444e412d69b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/ab40bb31bf466bb985e98444e412d69b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/0841a8f6ec9836f46b6b28fec37c7d5c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/0841a8f6ec9836f46b6b28fec37c7d5c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/8ca212c1eb1dd475a330eeec5ec3d3f6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/8ca212c1eb1dd475a330eeec5ec3d3f6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/8210685f0ee4b35f1c2372367b7b0220/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/8210685f0ee4b35f1c2372367b7b0220/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/c63767f7e0f8144401105b0d751e2071/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/c63767f7e0f8144401105b0d751e2071/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/9dd0b8da850018fd6e6f67e458db535d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/9dd0b8da850018fd6e6f67e458db535d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/40195c246f8f2b16eeb9dc9f45213ff1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/40195c246f8f2b16eeb9dc9f45213ff1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/9236ad21d57175890611002d5ea8e9a2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/9236ad21d57175890611002d5ea8e9a2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/07c0ad7a97a70260eace9ed7c855cfb2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/07c0ad7a97a70260eace9ed7c855cfb2/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1165101fa9cbf86415ec515582ea6310/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1165101fa9cbf86415ec515582ea6310/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/6cc02f7003a561de698722f7c0ab527f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/6cc02f7003a561de698722f7c0ab527f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/35ddc3a541acecd64bb0507b40dd8fd6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/35ddc3a541acecd64bb0507b40dd8fd6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/6a56e9de63e04415158c50378c6c01c3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/6a56e9de63e04415158c50378c6c01c3/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d825ada72221cf8281dda47f23fc805f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d825ada72221cf8281dda47f23fc805f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/521e3503d19b9eb6dcf2d2cbb48b93c2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/521e3503d19b9eb6dcf2d2cbb48b93c2/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7f7c1f52634f608ed18abac998f3cd2a/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7f7c1f52634f608ed18abac998f3cd2a/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0799a49afbe568d22a38d9208826cd5d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0799a49afbe568d22a38d9208826cd5d/AndroidManifest.xml:20:5-44
-INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml
-INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml
+INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\91bc22c969fb14894154b6b01f633bb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc02.aar\91bc22c969fb14894154b6b01f633bb0\AndroidManifest.xml:20:5-44
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\android-networking-1.0.2.aar\153a78407332d55f51f901e36dd9cd23\AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\android-networking-1.0.2.aar\153a78407332d55f51f901e36dd9cd23\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\7d69670ed3f4533f3ad52df26534a3e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\7d69670ed3f4533f3ad52df26534a3e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1857fa348cf53ff40ecb7f253c78ec7c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1857fa348cf53ff40ecb7f253c78ec7c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-rc02.aar\b281c12d5e8e52a1d7d1d4348b650705\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-rc02.aar\b281c12d5e8e52a1d7d1d4348b650705\AndroidManifest.xml:20:5-44
+MERGED from [com.github.satyan:sugar:1.5] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\sugar-1.5.aar\1d5225d5d79ba497b8191e974d0d3f2d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.satyan:sugar:1.5] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\sugar-1.5.aar\1d5225d5d79ba497b8191e974d0d3f2d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\26b6d2b7d91e5faedbaeee0b97fb6ec7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\26b6d2b7d91e5faedbaeee0b97fb6ec7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\8d5aa9f9b90c0a1f35a267b84c3c043c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\8d5aa9f9b90c0a1f35a267b84c3c043c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\7c6b2d7b6ba57e48c490036f281a0759\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\7c6b2d7b6ba57e48c490036f281a0759\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\f087bd3214a4dec2a61515345d23cf9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\f087bd3214a4dec2a61515345d23cf9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\91372f7b17a4f5c1666a875181a2c6d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\91372f7b17a4f5c1666a875181a2c6d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\b785716d82bbb0c22bda00d6335c9893\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc02.aar\b785716d82bbb0c22bda00d6335c9893\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-rc02.aar\ebf07b3f9a5771bcd2a28defcc197e23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-rc02.aar\ebf07b3f9a5771bcd2a28defcc197e23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\ff8241b1cb4fea8ead6b4425b606d3e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\ff8241b1cb4fea8ead6b4425b606d3e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\6a17c19b25252eff63541ee10255b740\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\6a17c19b25252eff63541ee10255b740\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\d1911e3b39f9f30d76fc16b2fab0564b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\d1911e3b39f9f30d76fc16b2fab0564b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\1b4a937a3fe8de25c0169c0c14e0da49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\1b4a937a3fe8de25c0169c0c14e0da49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\915f4a8dc71b1a7597878a6f1df3bcda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\915f4a8dc71b1a7597878a6f1df3bcda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\c43654908f77745d6debb3c36b1ae427\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\c43654908f77745d6debb3c36b1ae427\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\3d3c4adf2159dbdf3a47242b638c7460\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\3d3c4adf2159dbdf3a47242b638c7460\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\2647645ba834583832fd21972c3bd61f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\2647645ba834583832fd21972c3bd61f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\d49033525443f79f2dade55a99df33c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\d49033525443f79f2dade55a99df33c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\bca86f3d2f528170f5ec467714fa9ce8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\bca86f3d2f528170f5ec467714fa9ce8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\fa51f5facbb89ef1e4a6637758a52642\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\fa51f5facbb89ef1e4a6637758a52642\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\b1521b067fdb2ad03192473c1634dfac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\b1521b067fdb2ad03192473c1634dfac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c26738eb111fe0aa66bf094a8fc73ee0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c26738eb111fe0aa66bf094a8fc73ee0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\c04b127f5c524ef4dafc521ba26ab984\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\c04b127f5c524ef4dafc521ba26ab984\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\5a99b9b32331b520d5d3f1161ef21f35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\5a99b9b32331b520d5d3f1161ef21f35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\9de47e75fe61c51a22bf6d4d930455c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\9de47e75fe61c51a22bf6d4d930455c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3677aebeff83b38b7b85e6a63e0f29f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3677aebeff83b38b7b85e6a63e0f29f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\c2dfef84c1ca958e936e38bf070e4ea5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\c2dfef84c1ca958e936e38bf070e4ea5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\a878870f18c9f6e645e52d43d21d5fba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\a878870f18c9f6e645e52d43d21d5fba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5ce2ebf52b76d826d2d356a24c14763e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5ce2ebf52b76d826d2d356a24c14763e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8ac8949ffc3b58461865287861d40854\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JVL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8ac8949ffc3b58461865287861d40854\AndroidManifest.xml:20:5-44
+INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml
+		INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/src/main/AndroidManifest.xml
+		INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidYo\GitHub\LeaCoachAndroid\app\src\main\AndroidManifest.xml

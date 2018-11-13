@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "outputFile": "D:\\AndroidYo\\GitHub\\LeaCoachAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
-                    "source": "/Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/71bf0912a0eb69d0736da1b49a93de48/res/values-large-v4/values-large-v4.xml",
+                    "source": "C:\\Users\\JVL\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0-rc02.aar\\91bc22c969fb14894154b6b01f633bb0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/kevinriverosguia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/628d2a56083937a9f11933c7b04d9fd9/res/values-large-v4/values-large-v4.xml",
+                    "source": "C:\\Users\\JVL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc02.aar\\7d69670ed3f4533f3ad52df26534a3e7\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

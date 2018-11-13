@@ -5,10 +5,9 @@ import android.os.Bundle
 
 data class Tutor(
         val id: Int,
-
         val name: String?,
         val email: String?
-
+        //add url tutor please!
 ){
     companion object {
         fun from(bundle: Bundle):Tutor{
@@ -31,9 +30,6 @@ data class Tutor(
         }
         return bundle
     }
-
-
-
 }
 
 

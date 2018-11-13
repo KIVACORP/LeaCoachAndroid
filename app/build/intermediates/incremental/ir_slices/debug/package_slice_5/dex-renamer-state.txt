@@ -1,4 +1,4 @@
-#Thu Oct 25 11:57:54 PET 2018
-base.0=/Users/kevinriverosguia/Documents/imagenes_tutorapp/LeacoachApp-final/app/build/intermediates/transforms/dexMerger/debug/5
+#Tue Nov 13 03:07:22 COT 2018
+base.0=D\:\\AndroidYo\\GitHub\\LeaCoachAndroid\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1016,6 +1016,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable gradient_main
 drawable ic_chevron_right_black_24dp
 drawable ic_dashboard_black_24dp
 drawable ic_docflat
@@ -1054,6 +1055,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable selector_textview
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -1090,7 +1092,6 @@ id async
 id auto
 id barrier
 id beginning
-id birthdayTextView
 id blocking
 id bottom
 id buttonPanel
@@ -1104,16 +1105,19 @@ id checkbox
 id chronometer
 id clip_horizontal
 id clip_vertical
+id coachesRecycler
 id collapseActionView
 id container
 id content
 id contentPanel
 id coordinator
-id courseTextView
+id countTextView
 id custom
 id customPanel
+id dateTextView
 id decor_content_parent
 id default_activity_button
+id descriptionTextView
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -1186,6 +1190,7 @@ id nameTextView
 id navigation
 id navigation_favorite
 id navigation_header_container
+id navigation_home
 id navigation_profile
 id navigation_search
 id never
@@ -1243,6 +1248,7 @@ id snackbar_text
 id snap
 id snapMargins
 id spacer
+id specialityTextView
 id split_action_bar
 id spread
 id spread_inside
@@ -1285,7 +1291,6 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id tutorImageView
-id tutorNameTextView
 id uniform
 id unlabeled
 id up
@@ -1296,7 +1301,6 @@ id visible
 id withText
 id wrap
 id wrap_content
-id youtubePlayer
 integer abc_config_activityDefaultDur
 integer abc_config_activityShortDur
 integer app_bar_elevation_anim_duration
@@ -1363,7 +1367,11 @@ layout design_navigation_item_subheader
 layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
+layout fragment_coaches
 layout fragment_favorite
+layout fragment_favorite_empty
+layout fragment_files
+layout fragment_home
 layout fragment_profile
 layout fragment_search
 layout item_file
@@ -1396,6 +1404,8 @@ mipmap default_image
 mipmap ic_launcher
 mipmap ic_launcher_round
 mipmap img_profile
+mipmap leacoachicon
+mipmap leacoachiconwhite
 mipmap logo
 mipmap teacher
 mipmap tutors_login
@@ -1463,6 +1473,7 @@ string title_activity_about_file
 string title_activity_about_media
 string title_activity_login
 string title_favorite
+string title_home
 string title_profile
 string title_search
 style AlertDialog_AppCompat
